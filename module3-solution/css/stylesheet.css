@@ -1,0 +1,37 @@
+body {
+	background-color: pink;
+}
+#header-nav {
+	background-color: green;
+}
+.navbar-brand h1 {
+	color: white;
+	font-size: 1.5em;
+	margin-top: 0;
+}
+.navbar-brand a:hover a:focus {
+	text-decoration: none;
+}
+h2 {
+	font-size: 1.35em;
+	font-weight: bold;
+}
+.container .menuItem {
+	background-color: beige;
+	margin: 20px;
+	padding: 5px 20px;	
+}
+.menuItem p {
+	font-size: 1.05em;
+	font-weight: bold;
+}
+.menuItem span {
+	font-size: 0.9em;
+}
+#collapsable-nav li {
+	border: 1px solid black;
+	width: 100%;
+}
+#collapsable-nav ul {
+	margin: 0px -15px;
+}
